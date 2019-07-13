@@ -3,10 +3,14 @@ this is line 2  add something by jun
 this is line 3 by jun
 this is line 4 by jun
 this is line 5 added by john
-this is line 6 added by john
+this is line 6 added by john  by jun
 @@@@@@@@@@@@@@@@@@@@
 this is line n by jun
 
 this is line 10. by john
+this is line 10.5 by jun
+this is line 10.6 by jun
 this is line 11. by john
 
+
+this is line 12 by jun
