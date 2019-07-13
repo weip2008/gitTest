@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 if() {
     line 1
     line 2
 } else () {
     line 3
     line 4
-=======
-for (i=0; i<10; i++{
-    a +=i;
->>>>>>> 813de3caaebe80ca52e6415be416a4537a2e3a57
 }
