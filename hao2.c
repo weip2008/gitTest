@@ -1,5 +1,4 @@
 #include <stdio.h>
 main(){
-jfkdjf
-jfkdj}
-
+ printf("hello")
+}
