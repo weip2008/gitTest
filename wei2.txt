@@ -1,7 +1,9 @@
 if () {
     line 1
     line 2
+    add 1 + 2
 } else {
     line 3
     line 4
+    add 3 + 4
 }
