@@ -1,16 +1,3 @@
-this is line 1
-this is line 2  add something by jun
-this is line 3 by jun
-this is line 4 by jun
-this is line 5 added by john by jun ++++++
-
-
-this is line n by jun
-
-this is line 10. by john
-
-add one more line by jun
-
-++++++++++++++++++++++++
-
-continue to add line by jun
+for (i=0; i<10; i++{
+    a +=i;
+}
