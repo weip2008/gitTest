@@ -1,21 +1,7 @@
-this is line 1
-this is line 2  add something by jun
-this is line 3 by jun
-this is line 4 by jun
-this is line 5 added by john by jun
-this is line 6 added by john
-@@@@@@@@@@@@@@@@@@@@
-this is line n by jun
-
-this is line 10. by john
-this is line 10.4 by jun
-this is line 10.5 by jun
-this is line 11. by john
-
-this is addition line by jun
-
-add one more line by jun
-
-++++++++++++++++++++++++
-
-continue to add line by jun
+if() {
+    line 1
+    line 2
+} else () {
+    line 3
+    line 4
+}
