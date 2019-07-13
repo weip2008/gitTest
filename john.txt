@@ -3,7 +3,8 @@ this is line 2  add something by jun
 this is line 3 by jun
 this is line 4 by jun
 this is line 5 added by john
-this is line 6 added by john
+this is line 6 added by john ++++
+this is a new line
 @@@@@@@@@@@@@@@@@@@@
 this is line n by jun
 
