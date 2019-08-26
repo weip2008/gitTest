@@ -1,4 +1,16 @@
+
 this is line 1
 this is line 2  add something by jun
 this is line 3 by jun chaned by wei
 add this line after lunch
+
+if() {
+    line 1
+    line 2
+} else () {
+    line 3
+    line 4 by wei
+}
+
+foreach()
+>>>>>>> eaa1a273dd6befcbcef8b94f39e1b654fa37e7f0

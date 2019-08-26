@@ -1,0 +1,6 @@
+if () {
+    line 1
+
+} else {
+    line 3
+}
