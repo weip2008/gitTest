@@ -4,3 +4,5 @@ if () {
 } else {
     line 3
 }
+
+add empty line
