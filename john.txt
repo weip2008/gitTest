@@ -1,9 +1,3 @@
-
-this is line 1
-this is line 2  add something by jun
-this is line 3 by jun chaned by wei
-add this line after lunch
-
 if() {
     line 1
     line 2
@@ -13,18 +7,3 @@ if() {
 }
 
 foreach()
-
-1cdff46 (HEAD -> dev, origin/dev) add a new file
-4f403be deleted one file
-44f4149 (origin/ruan, ruan) added more lines
-9ebabe4 added content
-d424dba merge john's file
-eaa1a27 create a new file
-30856e0 (origin/master, master) add foreach
-b11060b keep if
-35a3a25 keep if
-fafa678 add if
-813de3c for loop
-77239bf Merge branch 'master' of https://github.com/weip2008/gitTest
-689fddd modify
-971c4af continue to add one line
