@@ -2,3 +2,15 @@ for () {
     line 1
     line 2
 }
+
+a04263e (HEAD -> dev, dev1) add emtpy line in wei2.txt
+cd8d391 add current status log oneline
+1cdff46 (tag: release1, origin/dev) add a new file
+4f403be deleted one file
+44f4149 (origin/ruan, ruan) added more lines
+9ebabe4 added content
+d424dba merge john's file
+eaa1a27 create a new file
+
+
+b1f2e88 (HEAD -> dev) modify jun.txt
